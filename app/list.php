@@ -40,7 +40,7 @@ $menu_items = array (
   array (
     'id' => 5,
     'image_url' => 'images/dish5.jpg',
-    'name' => 'Chicken Burger',
+    'name' => 'Krabby Patty',
     'brief' => "The Krabby Patty burger is a tantalizing creation with a hint of mystery that keeps customers coming back for more. An iconic taste experience that's sure to leave everyone craving another bite! 🍔😋",
     'ingredients' => "At the heart of our culinary magic is the Krusty Krab's ultimate secret—the irresistible Krabby Patty. Got questions or need assistance? Our dedicated admin, Squidward, is here to help!🦑",
     'price' => '$💰priceless💰',
